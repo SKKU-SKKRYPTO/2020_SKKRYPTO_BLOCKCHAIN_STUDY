@@ -20,8 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5f2df6fd-fe49-4c93-a988-018960be1c5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/solidity/Smart Contract (1).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/truffle/Truffle Test.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/klaytn/201114 PPT.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/klaytn/Klaytn_BApp.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/klaytn/klaytn-computation.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/klaytn/klaytn-consensus-account.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/klaytn/klaytn-transaction.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/truffle/Deploying DApps with truffle.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,12 +48,18 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/klaytn" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/klaytn" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/solidity" />
+      <recent name="$PROJECT_DIR$/klaytn" />
       <recent name="$PROJECT_DIR$/truffle" />
+      <recent name="$PROJECT_DIR$/solidity" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -60,7 +71,8 @@
       <option name="presentableId" value="Default" />
       <updated>1603779964832</updated>
       <workItem from="1603779965860" duration="13000" />
-      <workItem from="1603779987913" duration="958000" />
+      <workItem from="1603779987913" duration="1212000" />
+      <workItem from="1605889760326" duration="772000" />
     </task>
     <servers />
   </component>
@@ -77,5 +89,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
