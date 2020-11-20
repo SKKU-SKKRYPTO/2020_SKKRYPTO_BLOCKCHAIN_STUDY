@@ -16,7 +16,8 @@
 발표자: 여정민, 이용욱
 
 발표자료
-<ul>
+
+<ul xmlns="http://www.w3.org/1999/html">
     <li> <a href="solidity/Smart%20Contract%20(1).pdf"> 스마트 컨트랙트 동작 원리 </a> </li>
 </ul>
 
@@ -96,9 +97,84 @@
 
 *** 
 #### Participants
-
-| <img src="https://avatars2.githubusercontent.com/u/28587291?s=400&u=6f0ea3151a3dbc07155e95fc5a3e9e156cbd5cb5&v=4" width="64" height="64" style="border-radius: 50%;" /> |<img src="https://avatars2.githubusercontent.com/u/28587291?s=400&u=6f0ea3151a3dbc07155e95fc5a3e9e156cbd5cb5&v=4" width="64" height="64" style="border-radius: 50%;" /> |<img src="https://avatars2.githubusercontent.com/u/28587291?s=400&u=6f0ea3151a3dbc07155e95fc5a3e9e156cbd5cb5&v=4" width="64" height="64" style="border-radius: 50%;" /> | <img src="https://avatars2.githubusercontent.com/u/28587291?s=400&u=6f0ea3151a3dbc07155e95fc5a3e9e156cbd5cb5&v=4" width="64" height="64" style="border-radius: 50%;" /> | <img src="https://avatars2.githubusercontent.com/u/28587291?s=400&u=6f0ea3151a3dbc07155e95fc5a3e9e156cbd5cb5&v=4" width="64" height="64" style="border-radius: 50%;" /> | <img src="https://avatars2.githubusercontent.com/u/28587291?s=400&u=6f0ea3151a3dbc07155e95fc5a3e9e156cbd5cb5&v=4" width="64" height="64" style="border-radius: 50%;" /> | <img src="https://avatars2.githubusercontent.com/u/28587291?s=400&u=6f0ea3151a3dbc07155e95fc5a3e9e156cbd5cb5&v=4" width="64" height="64" style="border-radius: 50%;" /> | <img src="https://avatars2.githubusercontent.com/u/28587291?s=400&u=6f0ea3151a3dbc07155e95fc5a3e9e156cbd5cb5&v=4" width="64" height="64" style="border-radius: 50%;" /> | <img src="https://avatars2.githubusercontent.com/u/28587291?s=400&u=6f0ea3151a3dbc07155e95fc5a3e9e156cbd5cb5&v=4" width="64" height="64" style="border-radius: 50%;" /> | <img src="https://avatars2.githubusercontent.com/u/28587291?s=400&u=6f0ea3151a3dbc07155e95fc5a3e9e156cbd5cb5&v=4" width="64" height="64" style="border-radius: 50%;" /> | <img src="https://avatars2.githubusercontent.com/u/28587291?s=400&u=6f0ea3151a3dbc07155e95fc5a3e9e156cbd5cb5&v=4" width="64" height="64" style="border-radius: 50%;" /> |  
-|---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---| 
-|`Youngerjesus` | `doggai10` |  `yongwookLee`| `holim0`| `JunhoBae999`| `bestowing`| `joonparkhere` | `PSYcode04` | `hyunjeongshub`| `s2unha`| 
-
+<table>
+  <thead>
+   <tr>
+      <th>
+            <a href="https://avatars2.githubusercontent.com/u/28587291?s=400&u=6f0ea3151a3dbc07155e95fc5a3e9e156cbd5cb5&v=4">
+            <img src="https://avatars2.githubusercontent.com/u/28587291?s=400&u=6f0ea3151a3dbc07155e95fc5a3e9e156cbd5cb5&v=4"
+                width="100" alt="Jeogmin Yeo" />  
+            </a>       
+      </th>
+      <th>
+           <a href="https://avatars3.githubusercontent.com/u/46369622?s=400&v=4">
+             <img src="https://avatars3.githubusercontent.com/u/46369622?s=400&v=4"
+               width="100" alt="doheon kim" />  
+           </a>       
+      </th>
+      <th>
+         <a href="https://avatars3.githubusercontent.com/u/46441280?s=400&u=149aeb230cc299dc08aa32958026390d2ce059b3&v=4">
+           <img src="https://avatars3.githubusercontent.com/u/46441280?s=400&u=149aeb230cc299dc08aa32958026390d2ce059b3&v=4"
+             width="100" alt="yongwook lee" />  
+         </a>       
+      </th>
+      <th>
+          <a href="https://avatars1.githubusercontent.com/u/48006103?s=400&u=274ec78c67b6730e275e79749ca259e06ba51830&v=4">
+              <img src="https://avatars1.githubusercontent.com/u/48006103?s=400&u=274ec78c67b6730e275e79749ca259e06ba51830&v=4"
+                   width="100" />  
+              </a>       
+      </th>
+      <th>
+                <a href="https://avatars3.githubusercontent.com/u/48244064?s=400&u=12eeafb82be3cc079c6247c6c2eb0ae1d81a4cb7&v=4">
+                    <img src="https://avatars3.githubusercontent.com/u/48244064?s=400&u=12eeafb82be3cc079c6247c6c2eb0ae1d81a4cb7&v=4"
+                         width="100" />  
+                    </a>       
+            </th>
+      <th>
+                      <a href="https://avatars3.githubusercontent.com/u/59321616?s=400&u=fa40e0018f06b198aca28f2ea79f54b03ffc85c7&v=4">
+                          <img src="https://avatars3.githubusercontent.com/u/59321616?s=400&u=fa40e0018f06b198aca28f2ea79f54b03ffc85c7&v=4"
+                               width="100" />  
+                          </a>       
+                  </th>
+      <th>
+                            <a href="https://avatars1.githubusercontent.com/u/63057703?s=400&v=4">
+                                <img src="https://avatars1.githubusercontent.com/u/63057703?s=400&v=4"
+                                     width="100" />  
+                                </a>       
+                        </th>    
+      <th>
+                                  <a href="https://avatars2.githubusercontent.com/u/71871348?s=400&v=4">
+                                      <img src="https://avatars2.githubusercontent.com/u/71871348?s=400&v=4"
+                                           width="100" />  
+                                      </a>       
+                        </th>
+      <th>
+                                        <a href="https://avatars2.githubusercontent.com/u/71911721?s=400&v=4">
+                                            <img src="https://avatars2.githubusercontent.com/u/71911721?s=400&v=4"
+                                                 width="100" />  
+                                            </a>       
+                              </th>
+      <th>
+                                              <a href="https://avatars0.githubusercontent.com/u/71915232?s=400&v=4">
+                                                  <img src="https://avatars0.githubusercontent.com/u/71915232?s=400&v=4"
+                                                       width="100" />  
+                                                  </a>       
+                                    </th>                                                                    
+   </tr>
+    
+  </thead>
+ 
+  <tbody>
+   <tr>
+   <th>
+    Jeongmin Yeo
+   </th>
+   </tr>
+   <tr>
+   <th>
+    🔥     
+   </th>
+   </tr> 
+  </tbody>
+</table>
 
