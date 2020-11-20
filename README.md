@@ -1,4 +1,4 @@
-## 2020 SKKRYPTO Blockchain Study
+## 2020 SKKRYPTO 개발팀 Blockchain Study
 
 ***
 ### Mastering Solidity 1 

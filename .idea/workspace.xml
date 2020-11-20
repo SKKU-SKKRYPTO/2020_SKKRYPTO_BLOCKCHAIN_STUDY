@@ -20,13 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5f2df6fd-fe49-4c93-a988-018960be1c5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/klaytn/201114 PPT.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/klaytn/Klaytn_BApp.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/klaytn/klaytn-computation.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/klaytn/klaytn-consensus-account.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/klaytn/klaytn-transaction.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/truffle/Deploying DApps with truffle.pptx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +65,7 @@
       <updated>1603779964832</updated>
       <workItem from="1603779965860" duration="13000" />
       <workItem from="1603779987913" duration="1212000" />
-      <workItem from="1605889760326" duration="772000" />
+      <workItem from="1605889760326" duration="993000" />
     </task>
     <servers />
   </component>
