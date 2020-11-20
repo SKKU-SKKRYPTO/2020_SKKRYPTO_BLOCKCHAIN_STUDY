@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5f2df6fd-fe49-4c93-a988-018960be1c5f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/readme.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -67,7 +68,7 @@
       <workItem from="1603779965860" duration="13000" />
       <workItem from="1603779987913" duration="1212000" />
       <workItem from="1605889760326" duration="2829000" />
-      <workItem from="1605892670893" duration="1246000" />
+      <workItem from="1605892670893" duration="2680000" />
     </task>
     <servers />
   </component>
@@ -85,5 +86,15 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="812" y="223" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1605894045105">
+      <screen x="0" y="23" width="2560" height="1341" />
+    </state>
+    <state x="812" y="223" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.2560.1341@0.23.2560.1341" timestamp="1605894045105" />
+    <state x="859" y="320" width="840" height="1034" key="search.everywhere.popup" timestamp="1605894622880">
+      <screen x="0" y="23" width="2560" height="1341" />
+    </state>
+    <state x="859" y="320" width="840" height="1034" key="search.everywhere.popup/0.23.2560.1341@0.23.2560.1341" timestamp="1605894622880" />
   </component>
 </project>
